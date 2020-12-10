@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap");
+
+.App {
+  font-family: Caveat, sans-serif;
+  text-align: center;
+  background: yellowgreen;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.ul-li {
+  list-style: none;
+  display: block;
+  margin: auto;
+}
+
+.list-inline {
+  display: inline;
+  font-size: 30px;
+}
+
+#TextArea {
+  font-family: Caveat;
+  font-size: 25px;
+  padding: 0.5rem;
+  width: 80%;
+  border-color: red;
+  border-radius: 1rem;
+}
