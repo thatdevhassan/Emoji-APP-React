@@ -4,5 +4,5 @@ Try it out and share your thoughts. You can also suggest me to add more feature.
 I would love to add more value to this tiny miny project.
 
 
-[check on netlify](https://csb-yrxqc.netlify.app/)
-[check on codesandbox](https://codesandbox.io/s/github/thatdevhassan/Emoji-APP-React)
+>[check on netlify](https://csb-yrxqc.netlify.app/)<br>
+>[check on codesandbox](https://codesandbox.io/s/github/thatdevhassan/Emoji-APP-React)
